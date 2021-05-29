@@ -18,6 +18,12 @@ pip install image
 ## Usage
 >:octocat:for passing **secret messages** and notes etc blah blah. :octocat:
 
+##ScreenShorts
+![main screen](https://user-images.githubusercontent.com/71174208/120078158-b2777780-c0cb-11eb-9769-933352c5b27d.png)
+![encoder](https://user-images.githubusercontent.com/71174208/120078172-bd320c80-c0cb-11eb-9770-eb972bcf2724.png)
+![decoder](https://user-images.githubusercontent.com/71174208/120078178-c3c08400-c0cb-11eb-91d2-055ac441f62f.png)
+
+
 
 ## Contributing
 >:octocat:Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change :octocat:
