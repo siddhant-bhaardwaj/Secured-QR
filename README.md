@@ -1,5 +1,5 @@
 # Secured-QR
->encrypted QR encoder and decoder
+>
 Encrypted QR codes are QR codes that everyone cannot scan and access. 
 They are not too common
 
@@ -16,7 +16,7 @@ pip install image
 ```
 
 ## Usage
-for passing secret messages and notes etc bla bla
+>for passing secret messages and notes etc blah blah.
 
 
 ## Contributing
