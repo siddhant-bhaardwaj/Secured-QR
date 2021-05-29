@@ -1,5 +1,5 @@
 # Secured-QR
->
+>:octocat:
 Encrypted QR codes are QR codes that everyone cannot scan and access. 
 They are not too common
 
