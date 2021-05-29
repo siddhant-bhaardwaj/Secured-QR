@@ -3,6 +3,9 @@
 Encrypted QR codes are QR codes that everyone cannot scan and access. 
 They are not too common :octocat:
 
+## Usage
+>:octocat:for passing **secret messages** and notes etc blah blah. :octocat:
+
 ## Installation
 
 >:octocat:Use the package manager **[pip](https://pip.pypa.io/en/stable/)** to Use Secured-QR :octocat:
@@ -15,8 +18,13 @@ pip install opencv-python
 pip install image
 ```
 
-## Usage
->:octocat:for passing **secret messages** and notes etc blah blah. :octocat:
+## how to use 
+> tested on **windwos** only
+## method 1
+dubble click on run.bat for run **Secured-QR**
+## method 2
+simple run **encoder_and_decoder.py** in your IDE or IDLE etc.
+
 
 ## ScreenShorts
 
