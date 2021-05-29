@@ -13,6 +13,7 @@ pip install pyzbar
 pip install Pillow
 pip install opencv-python
 pip install image
+```
 
 ## Usage
 
