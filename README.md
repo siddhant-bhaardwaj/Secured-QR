@@ -1,7 +1,7 @@
 # Secured-QR
 encrypted QR encoder and decoder
 Encrypted QR codes are QR codes that everyone cannot scan and access. 
-They are not too common, since many QR codes are used in marketing, the developers of those codes want them to be accessible by everybody
+They are not too common
 
 ## Installation
 
