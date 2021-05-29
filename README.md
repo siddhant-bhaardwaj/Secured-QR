@@ -8,5 +8,8 @@ They are not too common, since many QR codes are used in marketing, the develope
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Secured-QR
 ```bash
 pip install tk
-```bash
-qrcode
+pip install qrcode
+pip install pyzbar
+pip install Pillow
+pip install opencv-python
+pip install image
