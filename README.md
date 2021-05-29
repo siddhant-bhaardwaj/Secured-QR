@@ -6,6 +6,7 @@ They are not too common :octocat:
 ## Usage
 >:octocat:for passing **secret messages** and notes etc blah blah. :octocat:
 
+
 ## Installation
 
 >:octocat:Use the package manager **[pip](https://pip.pypa.io/en/stable/)** to Use Secured-QR :octocat:
@@ -18,12 +19,15 @@ pip install opencv-python
 pip install image
 ```
 
-## how to use 
-> tested on **windwos** only
+
+## How to Run
+
 ## method 1
-dubble click on run.bat for run **Secured-QR**
+dubble click on run.bat to run **Secured-QR**
 ## method 2
 simple run **encoder_and_decoder.py** in your IDE or IDLE etc.
+>tested in **windwos** only
+
 
 
 ## ScreenShorts
@@ -36,8 +40,11 @@ simple run **encoder_and_decoder.py** in your IDE or IDLE etc.
 
 
 
+
 ## Contributing
 >:octocat:Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change :octocat:
+
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
