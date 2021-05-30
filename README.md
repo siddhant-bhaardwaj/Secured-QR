@@ -35,7 +35,7 @@ simple run **encoder_and_decoder.py** in your IDE or IDLE etc.
 
 
 
-## ScreenShorts
+## ScreenShots
 
 ![main screen](https://user-images.githubusercontent.com/71174208/120078158-b2777780-c0cb-11eb-9769-933352c5b27d.png)
 
