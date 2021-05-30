@@ -37,7 +37,7 @@ simple run **encoder_and_decoder.py** in your IDE or IDLE etc.
 
 ## ScreenShots
 
-![main screen](https://user-images.githubusercontent.com/71174208/120078158-b2777780-c0cb-11eb-9769-933352c5b27d.png)
+![main](https://user-images.githubusercontent.com/71174208/120092455-85a97b80-c130-11eb-9ad6-f0eb9d7a7df2.png)
 
 ![encoder](https://user-images.githubusercontent.com/71174208/120078172-bd320c80-c0cb-11eb-9770-eb972bcf2724.png)
 
