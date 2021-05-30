@@ -48,7 +48,7 @@ def window():
         
         #popup
         def popup():
-                messagebox.showinfo('your secret key',val) 
+                messagebox.showinfo('secret key',val) 
         popup()   
                         
         #take input form user
