@@ -2,6 +2,11 @@
 >:octocat:
 Encrypted QR codes are QR codes that everyone cannot scan and access. 
 They are not too common :octocat:
+1. **Server-less:** this enables the solution to scale and also makes it virtually maintenance free. Since there are no servers, once the document is issued - no further infrastructure is required needed to keep it verifiable
+
+2. **Off-line Verification:**  no network connectivity is needed to validate the information
+3. **Works for electronic as well as printed documents:** The QR code has a physical embodiment (barcode) which makes it transcend both electronic and printed copies of the document.
+4. **Privacy:** protect the privacy of the customer and institution in an uncomplicated logical manner
 
 ## Usage
 >:octocat:for passing **secret messages** and notes etc blah blah. :octocat:
